@@ -15,7 +15,6 @@
 Hello everyone, in this repository I developed a password generator, as a mini hobby I like it, hope you enjoy it.</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/08/03
-@hamidrjbr2
 ## :iphone: Contact
 - [instagram](https://instagram.com/mehdi_zarei-web)
 - [linkedin](https://linkedin.com/in/mehdi-zri)
