@@ -11,7 +11,6 @@
 - HTML5
 - tailwindcss
 - JS(pure)
-- fetch API (async, await)
 ## :page_facing_up: Description
 Hello everyone, in this repository I developed a password generator, as a mini hobby I like it, hope you enjoy it.</br>
 supervised by: Parsa Ghorbanian</br>
