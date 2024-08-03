@@ -1,7 +1,7 @@
 # password-generator
 <p align="center"> what's good guys?🔥</p>
 <p align="center">
-<a href="https://mehdi-zaree.github.io/password-generator/">demo link</a>.
+<a href="https://mehdi-zaree.github.io/password-generator/">demo link</a> .
 <a href="https://github.com/Mehdi-Zaree/password-generator/issues">report bug</a> .
 <a href="https://github.com/Mehdi-Zaree/password-generator/issues">requesting feature</a></p>
 <img src="https://github.com/user-attachments/assets/2e44d6c6-f9ea-42b9-8538-2277c5696aeb"></img>
